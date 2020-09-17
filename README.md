@@ -1,6 +1,6 @@
-## Welcome to Data Analytics Colloquium
+# Welcome to Data Analytics Colloquium
 
-# Maintain this page
+### Maintain this page
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
